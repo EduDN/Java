@@ -65,5 +65,4 @@ public class Main {
 javac name_of_file.java
 java name_of_file.java
 ```
-
-https://github.com/user-attachments/assets/6e11be22-0063-4a97-92f5-4bc2a48c7c28
+![hello_world.gif](images/hello_world.gif)
